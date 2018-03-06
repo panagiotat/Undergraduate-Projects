@@ -1,0 +1,11 @@
+﻿
+player1_2460.0
+
+player1_1160.0
+
+player1_-300.0
+
+player1_240.0
+player2_-1760.0
+
+player1_0.0
