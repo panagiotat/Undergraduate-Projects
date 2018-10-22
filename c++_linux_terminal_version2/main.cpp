@@ -210,7 +210,7 @@ void run(string a) {
 
 }
 
-//in the main function if the user did not give argument I //perform an infinite loop that prints 'Gkanoudi_8950> ' ,get //a String-command from the keyboard, 
+//in the main function if the user did not give argument I //perform an infinite loop ,get //a String-command from the keyboard, 
 //and call the function 'run' passing as argument the String-  //command/s.
 //if he argument gives i read the argument and i open the //batch file, and i give each line of the file as input in the //function run.
 
