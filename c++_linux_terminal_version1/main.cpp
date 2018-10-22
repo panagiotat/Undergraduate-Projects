@@ -11,9 +11,7 @@
 
     /*
         PANAGIOTATOS GEORGIOS AEM 2627
-        KAROLIDIS THEODOROS AEM 2572
-        ANDRAS ANTONIS AEM 2557
-        SERAFEIM EMMANOYIL AEM 2553
+
     */
 
     using namespace std;
